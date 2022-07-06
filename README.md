@@ -38,3 +38,4 @@ A curated list of design systems (updated regularly), style guides and pattern l
 | 32  | Radius by Nationbuilder   | [https://www.nationbuilder.design/](https://www.nationbuilder.design/)                 |
 | 33  | Bumbag UI                 | [https://bumbag.style/](https://bumbag.style/)                                         |
 | 34  | Iris by Vimeo             | [https://github.com/vimeo/iris/](https://github.com/vimeo/iris/)                       |
+| 35  | Mailchimp Patterns        | [https://ux.mailchimp.com/patterns/color](hhttps://ux.mailchimp.com/patterns/color)    |
