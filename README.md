@@ -39,3 +39,5 @@ A curated list of design systems (updated regularly), style guides and pattern l
 | 33  | Bumbag UI                 | [https://bumbag.style/](https://bumbag.style/)                                         |
 | 34  | Iris by Vimeo             | [https://github.com/vimeo/iris/](https://github.com/vimeo/iris/)                       |
 | 35  | Mailchimp Patterns        | [https://ux.mailchimp.com/patterns/color](https://ux.mailchimp.com/patterns/color)     |
+| 36  | Coop Experience Library   | [https://static.coop.co.uk/experience](https://static.coop.co.uk/experience-library/)  |
+| 37  | Mesh Design System        | [https://meshdesignsystem.com](https://meshdesignsystem.com/getting-started/overview/) |
