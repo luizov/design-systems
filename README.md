@@ -42,3 +42,5 @@ A curated list of design systems (updated regularly), style guides and pattern l
 | 36  | Coop Experience Library   | [https://static.coop.co.uk/experience](https://static.coop.co.uk/experience-library/)  |
 | 37  | Mesh Design System        | [https://meshdesignsystem.com](https://meshdesignsystem.com/getting-started/overview/) |
 | 38  | Gestalt by Pinterest      | [https://gestalt.pinterest.systems/home](https://gestalt.pinterest.systems/home)       |
+| 39  | Workday Canvas            | [https://canvas.workday.com/](https://canvas.workday.com/)                             |
+| 40  | Clarity by VMware         | [https://clarity.design/](https://clarity.design/)                                     |
