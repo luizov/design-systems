@@ -41,3 +41,4 @@ A curated list of design systems (updated regularly), style guides and pattern l
 | 35  | Mailchimp Patterns        | [https://ux.mailchimp.com/patterns/color](https://ux.mailchimp.com/patterns/color)     |
 | 36  | Coop Experience Library   | [https://static.coop.co.uk/experience](https://static.coop.co.uk/experience-library/)  |
 | 37  | Mesh Design System        | [https://meshdesignsystem.com](https://meshdesignsystem.com/getting-started/overview/) |
+| 38  | Gestalt by Pinterest      | [https://gestalt.pinterest.systems/home](https://gestalt.pinterest.systems/home)       |
