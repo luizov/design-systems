@@ -47,3 +47,4 @@ A curated list of design systems (updated regularly), style guides and pattern l
 | 41  | Amplify UI by AWS            | [https://ui.docs.amplify.aws/](https://ui.docs.amplify.aws/)                           |
 | 42  | Astro Space UX Design System | [https://www.astrouxds.com/](https://www.astrouxds.com/)                               |
 | 43  | Intergalactic by Semrush     | [https://semrush.com/intergalactic/](https://developer.semrush.com/intergalactic/)     |
+| 44  | Sanity UI                    | [https://www.sanity.io/ui](https://www.sanity.io/ui)                                   |
